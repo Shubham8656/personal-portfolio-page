@@ -24,7 +24,7 @@ body {
     margin-left: 55px;
     padding: 10px;
     width: 75%;
-/*     height: 590px; */
+    height: auto;
   }
   p,head{
       padding: 10px;
